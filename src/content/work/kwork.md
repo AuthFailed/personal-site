@@ -5,7 +5,7 @@ dateStart: "09/01/2019"
 dateEnd: "01/01/2021"
 ---
 
-I worked as a self-employed freelancer, providing services in [specify your field or expertise, e.g., graphic design, writing, programming]. During this time, I managed my own projects, communicated with clients, and delivered high-quality work to meet their needs.
+I worked as a self-employed freelancer, providing services in programming. During this time, I managed my own projects, communicated with clients, and delivered high-quality work to meet their needs.
 
 - Ensured compliance with client requirements to achieve high quality standards;
 - Developed scripts for process automation and created bots for messaging platforms;
