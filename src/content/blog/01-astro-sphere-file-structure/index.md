@@ -1,19 +1,18 @@
 ---
-title: "Astro Sphere: File Structure"
+title: "File Structure"
 summary: "You'll find these directories and files in the project. What do they do?"
 date: "Mar 17 2024"
 draft: false
 tags:
-- Tutorial
-- Astro
-- Astro Sphere
+  - Website
 ---
 
-A one line summary of what each file and directory is for:
+A one line summary of what each file and directory is for in this project:
+
 ```js
 /
 ├── public/ // Files publicly available to the browser
-│   ├── fonts/ // The default fonts for Astro Sphere
+│   ├── fonts/ // The default fonts
 │   │   └── atkinson-bold.woff  // default font weight 700
 │   │   └── atkinson-regular.woff // default font weight 400
 │   ├── js/ // Javascript that will be imported into <head>
