@@ -12,7 +12,7 @@ importers:
         specifier: ^0.9.3
         version: 0.9.3(typescript@5.6.2)
       '@astrojs/mdx':
-        specifier: ^2.1.1
+        specifier: ^2.2.0
         version: 2.2.0(astro@4.5.5(typescript@5.6.2))
       '@astrojs/rss':
         specifier: ^4.0.5
@@ -30,7 +30,7 @@ importers:
         specifier: ^0.5.10
         version: 0.5.10(tailwindcss@3.4.1)
       astro:
-        specifier: ^4.4.13
+        specifier: ^4.5.5
         version: 4.5.5(typescript@5.6.2)
       clsx:
         specifier: ^2.1.0
@@ -45,7 +45,7 @@ importers:
         specifier: ^1.8.15
         version: 1.8.15
       tailwind-merge:
-        specifier: ^2.2.1
+        specifier: ^2.2.2
         version: 2.2.2
       tailwindcss:
         specifier: ^3.4.1
@@ -867,8 +867,8 @@ packages:
     resolution: {integrity: sha512-xlx1yCK2Oc1APsPXDL2LdlNP6+uu8OCDdhOBSVT279M/S+y75O30C2VuD8T2ogdePBBl7PfPF4504tnLgX3zfw==}
     engines: {node: '>=14.16'}
 
-  caniuse-lite@1.0.30001599:
-    resolution: {integrity: sha512-LRAQHZ4yT1+f9LemSMeqdMpMxZcc4RMWdj4tiFe3G8tNkWK+E58g+/tzotb5cU6TbcVJLr4fySiAW7XmxQvZQA==}
+  caniuse-lite@1.0.30001660:
+    resolution: {integrity: sha512-GacvNTTuATm26qC74pt+ad1fW15mlQ/zuTzzY1ZoIzECTP8HURDfF43kNxPgf7H1jmelCBQTTbBNxdSXOA7Bqg==}
 
   ccount@2.0.1:
     resolution: {integrity: sha512-eyrF0jiFpY+3drT6383f1qhkbGsLSifNAjA61IUjZjmLCWjItY6LB9ft9YhoDgwfmclB2zhu51Lc7+95b8NRAg==}
@@ -3446,7 +3446,7 @@ snapshots:
   autoprefixer@10.4.18(postcss@8.4.36):
     dependencies:
       browserslist: 4.23.0
-      caniuse-lite: 1.0.30001599
+      caniuse-lite: 1.0.30001660
       fraction.js: 4.3.7
       normalize-range: 0.1.2
       picocolors: 1.0.0
@@ -3537,7 +3537,7 @@ snapshots:
 
   browserslist@4.23.0:
     dependencies:
-      caniuse-lite: 1.0.30001599
+      caniuse-lite: 1.0.30001660
       electron-to-chromium: 1.4.708
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.23.0)
@@ -3557,7 +3557,7 @@ snapshots:
 
   camelcase@7.0.1: {}
 
-  caniuse-lite@1.0.30001599: {}
+  caniuse-lite@1.0.30001660: {}
 
   ccount@2.0.1: {}
 
