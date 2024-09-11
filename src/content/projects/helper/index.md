@@ -11,4 +11,5 @@ demoUrl: https://authfailed.github.io/domru-helper/
 repoUrl: https://github.com/authfailed/domru-helper
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+The project is a Firefox browser extension that includes features to enhance and optimize the workflow. The codebase consists of JavaScript with jQuery, HTML, and CSS. The extension builds upon existing work tools' functionality and introduces new features through custom developments. Through this project, I gained valuable experience in extension development as well as in network and website operations.\
+Development commenced in April 2024 and is ongoing.
