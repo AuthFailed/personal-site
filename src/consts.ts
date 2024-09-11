@@ -60,6 +60,12 @@ export const SOCIALS: Socials = [
     HREF: "mailto:roman@chrsnv.ru",
   },
   {
+    NAME: "Telegram",
+    ICON: "telegram",
+    TEXT: "@authfailed",
+    HREF: "https://t.me/authfailed",
+  },
+  {
     NAME: "Github",
     ICON: "github",
     TEXT: "authfailed",
