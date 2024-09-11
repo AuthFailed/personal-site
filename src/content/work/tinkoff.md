@@ -1,6 +1,6 @@
 ---
 company: "Tinkoff Bank"
-role: "Tech support"
+role: "Regional Development Specialist - Expert"
 dateStart: "06/01/2021"
 dateEnd: "10/01/2022"
 ---
